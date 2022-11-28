@@ -1,2 +1,2 @@
-# OIP
-Oxygen Improvement Proposals
+# HIP
+Hypnosis Improvement Proposals
